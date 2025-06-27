@@ -58,7 +58,7 @@
     "react-transition-group": "^4.4.5",
     "recharts": "^2.7.2",
     "rsuite": "^5.38.0",
-    "stream-chat": "^8.10.1",
+    "stream-chat": "^8.60.0",
     "styled-components": "^6.0.7",
     "swiper": "^10.1.0",
     "timeago.js": "^4.0.2"
