@@ -26,7 +26,7 @@
     "@pubnub/react-chat-components": "^0.30.0",
     "@react-pdf/renderer": "^3.1.12",
     "@reduxjs/toolkit": "^1.9.5",
-    "axios": "^1.4.0",
+    "axios": "^1.12.0",
     "bootstrap-icons": "^1.10.5",
     "clsx": "^2.0.0",
     "date-fns": "^2.30.0",
@@ -58,7 +58,7 @@
     "react-transition-group": "^4.4.5",
     "recharts": "^2.7.2",
     "rsuite": "^5.38.0",
-    "stream-chat": "^8.10.1",
+    "stream-chat": "^8.14.0",
     "styled-components": "^6.0.7",
     "swiper": "^10.1.0",
     "timeago.js": "^4.0.2"
